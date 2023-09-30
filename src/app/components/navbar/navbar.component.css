@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2&family=Laila:wght@500&family=Playball&display=swap');
+
+.nav {
+    background: #34e89e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0f3443, #34e89e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-bottom: #435334 3px solid;
+}
+
+.titulo {
+    /*font-family: 'Laila', sans-serif;*/
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 2rem;
+    color: aquamarine;
+    padding: 15px 30px;
+    text-shadow: 1px 1px 1px #435334;
+}
